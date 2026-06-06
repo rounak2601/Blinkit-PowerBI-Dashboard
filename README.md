@@ -1,4 +1,4 @@
-# 🛒 Blinkit Sales Analytics Dashboard
+# Blinkit Sales Analytics Dashboard
 
 <p align="center">
   <img src="dashboard_preview.png" alt="Blinkit Dashboard Preview" width="100%"/>
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a comprehensive **Sales Analytics Dashboard** for **Blinkit** (India's Last Minute App), built using **Power BI**. The goal was to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key business insights and opportunities for optimization.
 
@@ -21,7 +21,7 @@ The data was first validated using **SQL Server** queries, then visualized throu
 
 ---
 
-## 🎯 Business Requirements
+## Business Requirements
 
 ### KPI Requirements
 
@@ -46,28 +46,28 @@ The data was first validated using **SQL Server** queries, then visualized throu
 
 ---
 
-## 📊 Dashboard Insights
+## Dashboard Insights
 
-### 🔢 Key Numbers
+### Key Numbers
 | Metric | Value |
 |--------|-------|
-| 💰 Total Sales | **$1.20M** |
-| 🧾 Average Sales | **$141** per transaction |
-| 📦 Number of Items | **8,523** items |
-| ⭐ Average Rating | **3.9** / 5 |
+| Total Sales | **$1.20M** |
+| Average Sales | **$141** per transaction |
+| Number of Items | **8,523** items |
+| Average Rating | **3.9** / 5 |
 
-### 🔍 Key Findings
+### Key Findings
 
-- 📍 **Tier 3 outlets** generated the highest sales at **$472K**, outperforming Tier 1 ($336K) and Tier 2 ($393K)
-- 🏪 **Supermarket Type 1** dominates with **$787K** in total sales — about **65% of total revenue**
-- 🥦 **Fruits & Vegetables** and **Snack Foods** are the top item categories, each generating **$0.18M**
-- 🥗 **Low Fat** products outsell Regular — **$776K vs $425K**
-- 📅 Outlets established in **2018** saw the peak historical sales of **$205K**
-- 🏬 **Medium-sized outlets** contribute the most to overall revenue among all outlet sizes
+- **Tier 3 outlets** generated the highest sales at **$472K**, outperforming Tier 1 ($336K) and Tier 2 ($393K)
+- **Supermarket Type 1** dominates with **$787K** in total sales — about **65% of total revenue**
+- **Fruits & Vegetables** and **Snack Foods** are the top item categories, each generating **$0.18M**
+- **Low Fat** products outsell Regular — **$776K vs $425K**
+- Outlets established in **2018** saw the peak historical sales of **$205K**
+- **Medium-sized outlets** contribute the most to overall revenue among all outlet sizes
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -78,21 +78,21 @@ The data was first validated using **SQL Server** queries, then visualized throu
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-📁 Blinkit-PowerBI-Dashboard/
+Blinkit-PowerBI-Dashboard/
 │
-├── 📊 blinkit_dashboard.pbix       # Main Power BI project file
-├── 📄 blinkit_grocery_data.csv     # Raw dataset
-├── 📝 blinkit_sql_queries.docx     # SQL queries used for data validation
-├── 🖼️ dashboard_preview.png        # Dashboard screenshot
-└── 📘 README.md                    # Project documentation
+├── blinkit_dashboard.pbix       # Main Power BI project file
+├── blinkit_grocery_data.csv     # Raw dataset
+├── blinkit_sql_queries.docx     # SQL queries used for data validation
+├── dashboard_preview.png        # Dashboard screenshot
+└── README.md                    # Project documentation
 ```
 
 ---
 
-## 🗃️ Dataset Description
+## Dataset Description
 
 The dataset contains grocery sales records from Blinkit outlets across India.
 
@@ -113,7 +113,7 @@ The dataset contains grocery sales records from Blinkit outlets across India.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone this repository**
    ```bash
@@ -130,7 +130,7 @@ The dataset contains grocery sales records from Blinkit outlets across India.
 
 ---
 
-## 📈 Project Workflow
+## Project Workflow
 
 ```
 Raw Data (CSV/JSON)
@@ -150,7 +150,7 @@ Insights & Analysis
 
 ---
 
-## 👤 Author
+## Author
 
 **Rounak Kumar Tilante**
 
